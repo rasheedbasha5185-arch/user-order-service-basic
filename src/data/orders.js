@@ -1,3 +1,3 @@
 module.exports = {
-  orders: [], // { id, userId, product, quantity }
+  orders: [], // { id, userId, product, quantity, no of orders }
 };
